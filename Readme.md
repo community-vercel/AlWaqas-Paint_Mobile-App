@@ -29,7 +29,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/al-waqas-paint.git
+git clone https://github.com/community-vercel/AlWaqas-Paint_Mobile-App
 cd al-waqas-paint
 Install dependencies:
 
