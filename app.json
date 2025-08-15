@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "AlWaqas Paint",
+    "slug": "al-waqas-paint",
+    "version": "1.1.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.sharplogicians.alwaqaspaint",
+      "versionCode": 5,
+"androidNavigationBar": {
+    "visible": "sticky-immersive",
+    "backgroundColor": "#ffffff"
+  },
+  "softwareKeyboardLayoutMode": "pan",
+  "windowSoftInputMode": "adjustNothing"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c8f7bc10-f589-42a9-a907-32ee19cce8b1"
+      }
+    }
+  }
+}
